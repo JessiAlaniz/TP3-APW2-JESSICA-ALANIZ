@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camiseta Básica",
+      "desc": "Camiseta de algodón 100% disponible en varios colores",
+      "precio": 15.00,
+      "imagen": "https://example.com/images/camiseta_basica.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jeans Skinny",
+      "desc": "Jeans ajustados de corte moderno y flexible",
+      "precio": 35.00,
+      "imagen": "https://example.com/images/jeans_skinny.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Vestido de Verano",
+      "desc": "Vestido ligero y fresco, ideal para días calurosos",
+      "precio": 50.00,
+      "imagen": "https://example.com/images/vestido_verano.jpg",
+      "categoria_id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Chaqueta de Cuero",
+      "desc": "Elegante chaqueta de cuero auténtico, estilo clásico",
+      "precio": 120.00,
+      "imagen": "https://example.com/images/chaqueta_cuero.jpg",
+      "categoria_id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Sudadera con Capucha",
+      "desc": "Sudadera cómoda con capucha, perfecta para el invierno",
+      "precio": 40.00,
+      "imagen": "https://example.com/images/sudadera_capucha.jpg",
+      "categoria_id": 5
+    },
+    {
+      "id": 6,
+      "nombre": "Falda Plisada",
+      "desc": "Falda plisada con diseño elegante, ideal para ocasiones formales",
+      "precio": 45.00,
+      "imagen": "https://example.com/images/falda_plisada.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Polo Deportivo",
+      "desc": "Polo de material transpirable, ideal para actividades deportivas",
+      "precio": 25.00,
+      "imagen": "https://example.com/images/polo_deportivo.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 8,
+      "nombre": "Abrigo Largo",
+      "desc": "Abrigo largo y abrigado, perfecto para el invierno",
+      "precio": 150.00,
+      "imagen": "https://example.com/images/abrigo_largo.jpg",
+      "categoria_id": 3
+    },
+    {
+      "id": 9,
+      "nombre": "Gorra de Béisbol",
+      "desc": "Gorra ajustable con visera curva, estilo casual",
+      "precio": 20.00,
+      "imagen": "https://example.com/images/gorra_beisbol.jpg",
+      "categoria_id": 4
+    },
+    {
+      "id": 10,
+      "nombre": "Bufanda de Lana",
+      "desc": "Bufanda suave de lana, perfecta para mantener el calor",
+      "precio": 30.00,
+      "imagen": "https://example.com/images/bufanda_lana.jpg",
+      "categoria_id": 5
+    },
+    {
+      "id": 11,
+      "nombre": "Guantes de Cuero",
+      "desc": "Guantes de cuero genuino, ideales para el frío",
+      "precio": 35.00,
+      "imagen": "https://example.com/images/guantes_cuero.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 12,
+      "nombre": "Sombrero de Paja",
+      "desc": "Sombrero ligero de paja, perfecto para días soleados",
+      "precio": 25.00,
+      "imagen": "https://example.com/images/sombrero_paja.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 13,
+      "nombre": "Zapatos Deportivos",
+      "desc": "Zapatos cómodos y ligeros, ideales para correr",
+      "precio": 60.00,
+      "imagen": "https://example.com/images/zapatos_deportivos.jpg",
+      "categoria_id": 3
+    },
+    {
+      "id": 14,
+      "nombre": "Pantalones de Vestir",
+      "desc": "Pantalones formales de corte recto",
+      "precio": 55.00,
+      "imagen": "https://example.com/images/pantalones_vestir.jpg",
+      "categoria_id": 4
+    },
+    {
+      "id": 15,
+      "nombre": "Blusa Elegante",
+      "desc": "Blusa de seda con detalles elegantes, ideal para eventos",
+      "precio": 65.00,
+      "imagen": "https://example.com/images/blusa_elegante.jpg",
+      "categoria_id": 5
+    },
+    {
+      "id": 16,
+      "nombre": "Cinturón de Cuero",
+      "desc": "Cinturón de cuero ajustable de alta calidad",
+      "precio": 25.00,
+      "imagen": "https://example.com/images/cinturon_cuero.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Mochila de Tela",
+      "desc": "Mochila resistente de tela, ideal para el uso diario",
+      "precio": 40.00,
+      "imagen": "https://example.com/images/mochila_tela.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 18,
+      "nombre": "Pantalones Cortos",
+      "desc": "Pantalones cortos de algodón, perfectos para el verano",
+      "precio": 20.00,
+      "imagen": "https://example.com/images/pantalones_cortos.jpg",
+      "categoria_id": 3
+    },
+    {
+      "id": 19,
+      "nombre": "Sandalias de Playa",
+      "desc": "Sandalias cómodas y ligeras, ideales para la playa",
+      "precio": 15.00,
+      "imagen": "https://example.com/images/sandalias_playa.jpg",
+      "categoria_id": 4
+    },
+    {
+      "id": 20,
+      "nombre": "Camisa Formal",
+      "desc": "Camisa formal de manga larga, ideal para ocasiones especiales",
+      "precio": 45.00,
+      "imagen": "https://example.com/images/camisa_formal.jpg",
+      "categoria_id": 5
+    },
+    {
+      "id": 21,
+      "nombre": "Calcetines Deportivos",
+      "desc": "Calcetines transpirables, perfectos para actividades deportivas",
+      "precio": 10.00,
+      "imagen": "https://example.com/images/calcetines_deportivos.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 22,
+      "nombre": "Reloj Deportivo",
+      "desc": "Reloj resistente al agua con cronómetro",
+      "precio": 50.00,
+      "imagen": "https://example.com/images/reloj_deportivo.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 23,
+      "nombre": "Pañuelo de Seda",
+      "desc": "Pañuelo elegante de seda, ideal para eventos formales",
+      "precio": 30.00,
+      "imagen": "https://example.com/images/panuelo_seda.jpg",
+      "categoria_id": 3
+    },
+    {
+      "id": 24,
+      "nombre": "Zapatos Formales",
+      "desc": "Zapatos elegantes de cuero, perfectos para el trabajo",
+      "precio": 70.00,
+      "imagen": "https://example.com/images/zapatos_formales.jpg",
+      "categoria_id": 4
+    },
+    {
+      "id": 25,
+      "nombre": "Gafas de Sol",
+      "desc": "Gafas de sol polarizadas, protección UV",
+      "precio": 25.00,
+      "imagen": "https://example.com/images/gafas_sol.jpg",
+      "categoria_id": 5
+    }
+  ]
+  

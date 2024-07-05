@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "usuario": "Juan",
+    "password": "pass1",
+    "username": "juanperez",
+    "email": "juan.perez@example.com"
+  },
+  {
+    "id": 2,
+    "usuario": "María Gómez",
+    "password": "pass2",
+    "username": "mariagomez",
+    "email": "maria.gomez@example.com"
+  },
+  {
+    "id": 3,
+    "usuario": "Carlos Sánchez",
+    "password": "pass3",
+    "username": "carlossanchez",
+    "email": "carlos.sanchez@example.com"
+  },
+  {
+    "id": 4,
+    "usuario": "Ana Martínez",
+    "password": "pass4",
+    "username": "anamartinez",
+    "email": "ana.martinez@example.com"
+  },
+  {
+    "id": 5,
+    "usuario": "Luis Fernández",
+    "password": "pass5",
+    "username": "luisfernandez",
+    "email": "luis.fernandez@example.com"
+  },
+  {
+    "id": 6,
+    "usuario": "Laura López",
+    "password": "pass6",
+    "username": "lauralopez",
+    "email": "laura.lopez@example.com"
+  },
+  {
+    "id": 7,
+    "usuario": "José González",
+    "password": "pass7",
+    "username": "josegonzalez",
+    "email": "jose.gonzalez@example.com"
+  },
+  {
+    "id": 8,
+    "usuario": "Marta Díaz",
+    "password": "pass8",
+    "username": "martadiaz",
+    "email": "marta.diaz@example.com"
+  },
+  {
+    "id": 9,
+    "usuario": "David Ruiz",
+    "password": "pass9",
+    "username": "davidruiz",
+    "email": "david.ruiz@example.com"
+  },
+  {
+    "id": 10,
+    "usuario": "Elena Ramírez",
+    "password": "pass10",
+    "username": "elenaramirez",
+    "email": "elena.ramirez@example.com"
+  },
+  {
+    "id": 11,
+    "usuario": "Santiago Torres",
+    "password": "pass11",
+    "username": "santiagotorres",
+    "email": "santiago.torres@example.com"
+  },
+  {
+    "id": 12,
+    "usuario": "Lucía Morales",
+    "password": "pass12",
+    "username": "luciamorales",
+    "email": "lucia.morales@example.com"
+  },
+  {
+    "id": 13,
+    "usuario": "Pedro Castillo",
+    "password": "pass13",
+    "username": "pedrocastillo",
+    "email": "pedro.castillo@example.com"
+  },
+  {
+    "id": 14,
+    "usuario": "Sofía Ortega",
+    "password": "pass14",
+    "username": "sofiaortega",
+    "email": "sofia.ortega@example.com"
+  },
+  {
+    "id": 15,
+    "usuario": "Raúl Vargas",
+    "password": "pass15",
+    "username": "raulvargas",
+    "email": "raul.vargas@example.com"
+  },
+  {
+    "id": 16,
+    "user": "jessica",
+    "password": "jessi1",
+    "username": "jessi123",
+    "email": "jessi@mail.com"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "id_usuario": "1",
+    "fecha": "2024-07-05T21:42:49.637Z",
+    "total": 100,
+    "dirección": "juan.perez@example.com",
+    "productos": [
+      {
+        "id": "1",
+        "cantidad": 1
+      },
+      {
+        "id": "2",
+        "cantidad": 1
+      },
+      {
+        "id": "3",
+        "cantidad": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ropa Casual"
+    },
+    {
+      "id": 2,
+      "nombre": "Ropa Deportiva"
+    },
+    {
+      "id": 3,
+      "nombre": "Ropa Formal"
+    },
+    {
+      "id": 4,
+      "nombre": "Accesorios"
+    },
+    {
+      "id": 5,
+      "nombre": "Calzado"
+    }
+  ]
+  
