@@ -19,5 +19,85 @@
         "cantidad": 1
       }
     ]
+  },
+  {
+    "id": 2,
+    "id_usuario": "1",
+    "fecha": "2024-07-05T22:58:06.979Z",
+    "total": 50,
+    "dirección": "juan.perez@example.com",
+    "productos": [
+      {
+        "id": "1",
+        "cantidad": 1
+      },
+      {
+        "id": "2",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "id_usuario": "1",
+    "fecha": "2024-07-05T23:10:22.289Z",
+    "total": 180,
+    "dirección": "juan.perez@example.com",
+    "productos": [
+      {
+        "id": "4",
+        "cantidad": 1
+      },
+      {
+        "id": "9",
+        "cantidad": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "id_usuario": "1",
+    "fecha": "2024-07-06T04:20:46.073Z",
+    "total": 440,
+    "dirección": "juan.perez@example.com",
+    "productos": [
+      {
+        "id": "1",
+        "cantidad": 1
+      },
+      {
+        "id": "2",
+        "cantidad": 3
+      },
+      {
+        "id": "3",
+        "cantidad": 4
+      },
+      {
+        "id": "4",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "id_usuario": "1",
+    "fecha": "2024-07-06T04:50:27.117Z",
+    "total": 235,
+    "dirección": "juan.perez@example.com",
+    "productos": [
+      {
+        "id": "1",
+        "cantidad": 2
+      },
+      {
+        "id": "2",
+        "cantidad": 3
+      },
+      {
+        "id": "3",
+        "cantidad": 2
+      }
+    ]
   }
 ]

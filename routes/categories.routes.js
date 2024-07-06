@@ -1,9 +1,9 @@
 import { Router } from "express";
 import {readFile} from "fs/promises"
 
-//lee y trae el archivo
+
 const fileCategories = await readFile('./data/categorias.json','utf-8')
-//Lo convierte en JSON.
+
 const categoriesData = JSON.parse(fileCategories)
 
 const router = Router()

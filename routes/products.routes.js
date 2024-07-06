@@ -1,16 +1,13 @@
-//funcion de express para crear rutas y poder exportarlas
 import { Router } from "express";
-//funcion de node js para leer archivos
 import {readFile} from 'fs/promises';
 
-//lee y trae el archivo
+
 const fileProducts = await readFile('./data/productos.json','utf-8')
-//Lo convierte en JSON.
 const productsData = JSON.parse(fileProducts)
 
 const router = Router()
 
-//Lista de todos los productos
+
 router.get('/getProducts/', (req,res)=>{
     try {
        const result = productsData.map(e =>e)
@@ -31,7 +28,7 @@ router.get('/getProducts/', (req,res)=>{
  })
 
 
- //Lista de productos por categoria
+
 router.post('/getProductsByCategory/', (req,res)=>{
    try {
       const categoria = req.body.id

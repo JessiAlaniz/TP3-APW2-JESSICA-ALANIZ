@@ -1,203 +1,202 @@
 [
-    {
-      "id": 1,
-      "nombre": "Camiseta Básica",
-      "desc": "Camiseta de algodón 100% disponible en varios colores",
-      "precio": 15.00,
-      "imagen": "https://example.com/images/camiseta_basica.jpg",
-      "categoria_id": 1
-    },
-    {
-      "id": 2,
-      "nombre": "Jeans Skinny",
-      "desc": "Jeans ajustados de corte moderno y flexible",
-      "precio": 35.00,
-      "imagen": "https://example.com/images/jeans_skinny.jpg",
-      "categoria_id": 2
-    },
-    {
-      "id": 3,
-      "nombre": "Vestido de Verano",
-      "desc": "Vestido ligero y fresco, ideal para días calurosos",
-      "precio": 50.00,
-      "imagen": "https://example.com/images/vestido_verano.jpg",
-      "categoria_id": 3
-    },
-    {
-      "id": 4,
-      "nombre": "Chaqueta de Cuero",
-      "desc": "Elegante chaqueta de cuero auténtico, estilo clásico",
-      "precio": 120.00,
-      "imagen": "https://example.com/images/chaqueta_cuero.jpg",
-      "categoria_id": 4
-    },
-    {
-      "id": 5,
-      "nombre": "Sudadera con Capucha",
-      "desc": "Sudadera cómoda con capucha, perfecta para el invierno",
-      "precio": 40.00,
-      "imagen": "https://example.com/images/sudadera_capucha.jpg",
-      "categoria_id": 5
-    },
-    {
-      "id": 6,
-      "nombre": "Falda Plisada",
-      "desc": "Falda plisada con diseño elegante, ideal para ocasiones formales",
-      "precio": 45.00,
-      "imagen": "https://example.com/images/falda_plisada.jpg",
-      "categoria_id": 1
-    },
-    {
-      "id": 7,
-      "nombre": "Polo Deportivo",
-      "desc": "Polo de material transpirable, ideal para actividades deportivas",
-      "precio": 25.00,
-      "imagen": "https://example.com/images/polo_deportivo.jpg",
-      "categoria_id": 2
-    },
-    {
-      "id": 8,
-      "nombre": "Abrigo Largo",
-      "desc": "Abrigo largo y abrigado, perfecto para el invierno",
-      "precio": 150.00,
-      "imagen": "https://example.com/images/abrigo_largo.jpg",
-      "categoria_id": 3
-    },
-    {
-      "id": 9,
-      "nombre": "Gorra de Béisbol",
-      "desc": "Gorra ajustable con visera curva, estilo casual",
-      "precio": 20.00,
-      "imagen": "https://example.com/images/gorra_beisbol.jpg",
-      "categoria_id": 4
-    },
-    {
-      "id": 10,
-      "nombre": "Bufanda de Lana",
-      "desc": "Bufanda suave de lana, perfecta para mantener el calor",
-      "precio": 30.00,
-      "imagen": "https://example.com/images/bufanda_lana.jpg",
-      "categoria_id": 5
-    },
-    {
-      "id": 11,
-      "nombre": "Guantes de Cuero",
-      "desc": "Guantes de cuero genuino, ideales para el frío",
-      "precio": 35.00,
-      "imagen": "https://example.com/images/guantes_cuero.jpg",
-      "categoria_id": 1
-    },
-    {
-      "id": 12,
-      "nombre": "Sombrero de Paja",
-      "desc": "Sombrero ligero de paja, perfecto para días soleados",
-      "precio": 25.00,
-      "imagen": "https://example.com/images/sombrero_paja.jpg",
-      "categoria_id": 2
-    },
-    {
-      "id": 13,
-      "nombre": "Zapatos Deportivos",
-      "desc": "Zapatos cómodos y ligeros, ideales para correr",
-      "precio": 60.00,
-      "imagen": "https://example.com/images/zapatos_deportivos.jpg",
-      "categoria_id": 3
-    },
-    {
-      "id": 14,
-      "nombre": "Pantalones de Vestir",
-      "desc": "Pantalones formales de corte recto",
-      "precio": 55.00,
-      "imagen": "https://example.com/images/pantalones_vestir.jpg",
-      "categoria_id": 4
-    },
-    {
-      "id": 15,
-      "nombre": "Blusa Elegante",
-      "desc": "Blusa de seda con detalles elegantes, ideal para eventos",
-      "precio": 65.00,
-      "imagen": "https://example.com/images/blusa_elegante.jpg",
-      "categoria_id": 5
-    },
-    {
-      "id": 16,
-      "nombre": "Cinturón de Cuero",
-      "desc": "Cinturón de cuero ajustable de alta calidad",
-      "precio": 25.00,
-      "imagen": "https://example.com/images/cinturon_cuero.jpg",
-      "categoria_id": 1
-    },
-    {
-      "id": 17,
-      "nombre": "Mochila de Tela",
-      "desc": "Mochila resistente de tela, ideal para el uso diario",
-      "precio": 40.00,
-      "imagen": "https://example.com/images/mochila_tela.jpg",
-      "categoria_id": 2
-    },
-    {
-      "id": 18,
-      "nombre": "Pantalones Cortos",
-      "desc": "Pantalones cortos de algodón, perfectos para el verano",
-      "precio": 20.00,
-      "imagen": "https://example.com/images/pantalones_cortos.jpg",
-      "categoria_id": 3
-    },
-    {
-      "id": 19,
-      "nombre": "Sandalias de Playa",
-      "desc": "Sandalias cómodas y ligeras, ideales para la playa",
-      "precio": 15.00,
-      "imagen": "https://example.com/images/sandalias_playa.jpg",
-      "categoria_id": 4
-    },
-    {
-      "id": 20,
-      "nombre": "Camisa Formal",
-      "desc": "Camisa formal de manga larga, ideal para ocasiones especiales",
-      "precio": 45.00,
-      "imagen": "https://example.com/images/camisa_formal.jpg",
-      "categoria_id": 5
-    },
-    {
-      "id": 21,
-      "nombre": "Calcetines Deportivos",
-      "desc": "Calcetines transpirables, perfectos para actividades deportivas",
-      "precio": 10.00,
-      "imagen": "https://example.com/images/calcetines_deportivos.jpg",
-      "categoria_id": 1
-    },
-    {
-      "id": 22,
-      "nombre": "Reloj Deportivo",
-      "desc": "Reloj resistente al agua con cronómetro",
-      "precio": 50.00,
-      "imagen": "https://example.com/images/reloj_deportivo.jpg",
-      "categoria_id": 2
-    },
-    {
-      "id": 23,
-      "nombre": "Pañuelo de Seda",
-      "desc": "Pañuelo elegante de seda, ideal para eventos formales",
-      "precio": 30.00,
-      "imagen": "https://example.com/images/panuelo_seda.jpg",
-      "categoria_id": 3
-    },
-    {
-      "id": 24,
-      "nombre": "Zapatos Formales",
-      "desc": "Zapatos elegantes de cuero, perfectos para el trabajo",
-      "precio": 70.00,
-      "imagen": "https://example.com/images/zapatos_formales.jpg",
-      "categoria_id": 4
-    },
-    {
-      "id": 25,
-      "nombre": "Gafas de Sol",
-      "desc": "Gafas de sol polarizadas, protección UV",
-      "precio": 25.00,
-      "imagen": "https://example.com/images/gafas_sol.jpg",
-      "categoria_id": 5
-    }
-  ]
-  
+  {
+    "id": 1,
+    "nombre": "Camiseta Básica",
+    "desc": "Camiseta de algodón 100% disponible en varios colores",
+    "precio": 15.00,
+    "imagen": "https://scalperscompany.mx/cdn/shop/products/12702-WHITE-P-1_9304185f-a823-4218-8eba-b0f8244893a1.jpg?v=1663773264",
+    "categoria_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Jeans Skinny",
+    "desc": "Jeans ajustados de corte moderno y flexible",
+    "precio": 35.00,
+    "imagen": "https://oldnavymx.vtexassets.com/arquivos/ids/178755-500-auto?v=638016172619630000&width=500&height=auto&aspect=true",
+    "categoria_id": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Vestido de Verano",
+    "desc": "Vestido ligero y fresco, ideal para días calurosos",
+    "precio": 50.00,
+    "imagen": "https://m.media-amazon.com/images/I/71HNjHZzigS._AC_SX569_.jpg",
+    "categoria_id": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Chaqueta de Cuero",
+    "desc": "Elegante chaqueta de cuero auténtico, estilo clásico",
+    "precio": 120.00,
+    "imagen": "https://m.media-amazon.com/images/I/510Aarmlm8L.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "categoria_id": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Sudadera con Capucha",
+    "desc": "Sudadera cómoda con capucha, perfecta para el invierno",
+    "precio": 40.00,
+    "imagen": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/505c32af-0769-4043-b4af-902917dfa744/sudadera-con-gorro-sin-cierre-de-french-terry-solo-swoosh-drNNQB.png",
+    "categoria_id": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Falda Plisada",
+    "desc": "Falda plisada con diseño elegante, ideal para ocasiones formales",
+    "precio": 45.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/b4a00065-be28-4c6c-a631-01e9ac409306.2a3d4ec3e139e67069f450529bc4dda0.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria_id": 3
+  },
+  {
+    "id": 7,
+    "nombre": "Polo Deportivo",
+    "desc": "Polo de material transpirable, ideal para actividades deportivas",
+    "precio": 25.00,
+    "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d559db2af2564f58bf80af2d00d484b9_9366/Playera_Polo_de_Tenis_Club_3_Franjas_Negro_HS3269_21_model.jpg",
+    "categoria_id": 2
+  },
+  {
+    "id": 8,
+    "nombre": "Abrigo Largo",
+    "desc": "Abrigo largo y abrigado, perfecto para el invierno",
+    "precio": 150.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/bb642238-d805-4cac-9fa7-cb4732071c1c.c8b528d19cd43817ef074bd7ba536a91.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria_id": 3
+  },
+  {
+    "id": 9,
+    "nombre": "Gorra de Béisbol",
+    "desc": "Gorra ajustable con visera curva, estilo casual",
+    "precio": 20.00,
+    "imagen": "https://www.innovasport.com/medias/gorra-new-era-39thirty-elastica-yankees-team-classic-is-10975804-1.jpg?context=bWFzdGVyfGltYWdlc3wxMTc4ODB8aW1hZ2UvanBlZ3xpbWFnZXMvaGIyL2g4MS8xMTQ2NzUxMjU3ODA3OC5qcGd8MTk4NGZlOWE0ZWMzMzUxMDU4NjM5NjE1NjViMGUyOWRjZmRhODA1OTYyNzlmNjkyOTUwMzlmZDJmY2ZmMzExMw",
+    "categoria_id": 4
+  },
+  {
+    "id": 10,
+    "nombre": "Bufanda de Lana",
+    "desc": "Bufanda suave de lana, perfecta para mantener el calor",
+    "precio": 30.00,
+    "imagen": "https://i.etsystatic.com/19508603/r/il/eb696a/2910861075/il_794xN.2910861075_rfus.jpg",
+    "categoria_id": 4
+  },
+  {
+    "id": 11,
+    "nombre": "Guantes de Cuero",
+    "desc": "Guantes de cuero genuino, ideales para el frío",
+    "precio": 35.00,
+    "imagen": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/ee40a284381b49aca5a548a08ef99dfe.jpg?imageView2/2/w/800/q/70/format/webp",
+    "categoria_id": 4
+  },
+  {
+    "id": 12,
+    "nombre": "Sombrero de Paja",
+    "desc": "Sombrero ligero de paja, perfecto para días soleados",
+    "precio": 25.00,
+    "imagen": "https://representacionesduran.com/wp-content/uploads/2020/11/brownhat.jpg",
+    "categoria_id": 4
+  },
+  {
+    "id": 13,
+    "nombre": "Zapatos Deportivos",
+    "desc": "Zapatos cómodos y ligeros, ideales para correr",
+    "precio": 60.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/461fa865-0c0f-4ee5-8d39-a6908d7742bc.6937bb0bc1a0e9115babd1e807e9aa56.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria_id": 2
+  },
+  {
+    "id": 14,
+    "nombre": "Pantalones de Vestir",
+    "desc": "Pantalones formales de corte recto",
+    "precio": 55.00,
+    "imagen": "https://yale.com.mx/wp-content/uploads/2020/12/010022126808-01-Pantalon-de-Vestir-sin-Pinzas-Classic-Fit-Gris-yale-640x640.jpg",
+    "categoria_id": 3
+  },
+  {
+    "id": 15,
+    "nombre": "Blusa Elegante",
+    "desc": "Blusa de seda con detalles elegantes, ideal para eventos",
+    "precio": 65.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/f0f51dc7-2989-41a6-a3fc-d8e34c4437f1.75a9fc4ce384669a5e796d0b38dc9361.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria_id": 3
+  },
+  {
+    "id": 16,
+    "nombre": "Cinturón de Cuero",
+    "desc": "Cinturón de cuero ajustable de alta calidad",
+    "precio": 25.00,
+    "imagen": "https://i.etsystatic.com/5173910/r/il/e00246/3777362250/il_794xN.3777362250_rjmz.jpg",
+    "categoria_id": 4
+  },
+  {
+    "id": 17,
+    "nombre": "Mochila de Tela",
+    "desc": "Mochila resistente de tela, ideal para el uso diario",
+    "precio": 40.00,
+    "imagen": "https://www.pronens.com/sites/default/files/mochila_tela.png",
+    "categoria_id": 4
+  },
+  {
+    "id": 18,
+    "nombre": "Pantalones Cortos",
+    "desc": "Pantalones cortos de algodón, perfectos para el verano",
+    "precio": 20.00,
+    "imagen": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/a9d69e0ad3a97fd09a13a5f9c3466a39.jpg?imageView2/2/w/800/q/70/format/webp",
+    "categoria_id": 1
+  },
+  {
+    "id": 19,
+    "nombre": "Sandalias de Playa",
+    "desc": "Sandalias cómodas y ligeras, ideales para la playa",
+    "precio": 15.00,
+    "imagen": "https://m.media-amazon.com/images/I/71tRhnjIacL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "categoria_id": 5
+  },
+  {
+    "id": 20,
+    "nombre": "Camisa Formal",
+    "desc": "Camisa formal de manga larga, ideal para ocasiones especiales",
+    "precio": 45.00,
+    "imagen": "https://scabal.com/cdn/shop/files/4400256_A.jpg?v=1707321224&width=246",
+    "categoria_id": 3
+  },
+  {
+    "id": 21,
+    "nombre": "Calcetines Deportivos",
+    "desc": "Calcetines transpirables, perfectos para actividades deportivas",
+    "precio": 10.00,
+    "imagen": "https://www.podoactiva.com/wp-content/uploads/imagenes/calcetines_deportivos_0.jpg",
+    "categoria_id": 2
+  },
+  {
+    "id": 22,
+    "nombre": "Reloj Deportivo",
+    "desc": "Reloj resistente al agua con cronómetro",
+    "precio": 50.00,
+    "imagen": "https://stgulabmexicoprod.blob.core.windows.net/correosclic/0008457_reloj-deportivo-azul-cronografo-digital-camuflaje-resistente-agua-pantalla-dual-analogica-led-luz_550.jpeg",
+    "categoria_id": 2
+  },
+  {
+    "id": 23,
+    "nombre": "Pañuelo de Seda",
+    "desc": "Pañuelo elegante de seda, ideal para eventos formales",
+    "precio": 30.00,
+    "imagen": "https://www.lavanguardia.com/uploads/2022/03/24/623c653589b91.png",
+    "categoria_id": 4
+  },
+  {
+    "id": 24,
+    "nombre": "Zapatos Formales",
+    "desc": "Zapatos elegantes de cuero, perfectos para el trabajo",
+    "precio": 70.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/e871203e-8fcb-4800-b90f-25b8f0320958.ca0f7b86125f3a1ae340b73c4dd04f34.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria_id": 5
+  },
+  {
+    "id": 25,
+    "nombre": "Gafas de Sol",
+    "desc": "Gafas de sol polarizadas, protección UV",
+    "precio": 25.00,
+    "imagen": "https://lux.mx/cdn/shop/products/888392555038_1.jpg?v=1675201610",
+    "categoria_id": 4
+  }
+]

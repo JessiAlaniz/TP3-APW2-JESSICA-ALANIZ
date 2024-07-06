@@ -1,17 +1,12 @@
-//funcion de express para crear rutas y poder exportarlas
 import { Router } from "express";
-//funcion de node js para leer archivos
 import {readFile, writeFile} from 'fs/promises';
 
-//lee y trae el archivo
+
 const fileUsers = await readFile('./data/usuarios.json','utf-8')
-
-//Lo convierte en JSON.
 const userData = JSON.parse(fileUsers)
-
 const router = Router()
 
-// Endpoint para validar usuarios
+
 router.post('/users/validation', (req, res) => {
    try {
        const { email, pass } = req.body;
@@ -28,7 +23,7 @@ router.post('/users/validation', (req, res) => {
    }
 });
 
-//REGISTRAR UN NUEVO USUARIO
+
 router.post('/newuser/', async (req,res)=>{
     try {
  
@@ -36,7 +31,7 @@ router.post('/newuser/', async (req,res)=>{
  
        const { user, password, username, email } = req.body;
  
-         // Verificación de que todos los campos requeridos están presentes
+    
          if (!user || !password || !username || !email) {
              return res.status(400).json({ error: 'Todos los campos son obligatorios: user, password, username y email' });
          }
@@ -61,7 +56,7 @@ router.post('/newuser/', async (req,res)=>{
  })
  
  
- //MODIFICAR EL EMAIL DE UN USUARIO CON SU ID
+
  router.put('/email/', async (req,res)=>{
     try {
  

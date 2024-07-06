@@ -1,18 +1,15 @@
-//funcion de express para crear rutas y poder exportarlas
 import { Router } from "express";
-//funcion de node js para leer archivos
 import {readFile , writeFile} from 'fs/promises';
 
-//lee y trae el archivo
+
 const fileSells = await readFile('./data/ventas.json','utf-8')
-//Lo convierte en JSON.
 const sellData = JSON.parse(fileSells)
 
 
 
 const router = Router()
 
-//CARGAR UNA NUEVA VENTA EN VENTAS.JSON
+
 router.post('/newSell/', async (req,res) =>{
 
    try {
@@ -50,7 +47,6 @@ router.post('/newSell/', async (req,res) =>{
 })
 
 
-//OBTENER TODAS LAS VENTAS
 router.post('/sells/', (req,res)=>{
    try {
 
@@ -81,20 +77,19 @@ router.post('/sells/', (req,res)=>{
 })
 
 
-//ELIMINAR UNA VENTA
 router.delete('/deletesell/:id', async (req,res)=>{
    try {
 
       const id_venta = parseInt(req.params.id)
 
-        // Encontrar el índice del elemento a eliminar
+
         const index = sellData.findIndex(e => e.id === id_venta);
 
         if (index !== -1) {
-            // Elimina el elemento del array
+       
             sellData.splice(index, 1);
 
-            // Guardar los datos actualizados en el archivo
+            
             await writeFile('./data/ventas.json', JSON.stringify(sellData, null, 2), 'utf-8');
 
             res.status(200).json({ message: "Venta eliminada con éxito" });
@@ -110,8 +105,6 @@ router.delete('/deletesell/:id', async (req,res)=>{
 })
 
 
-
-//OBTENER VENTAS POR ID
 router.get('/sells/:id', (req,res)=>{
    try {
 
